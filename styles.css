@@ -8,6 +8,11 @@ html{
     background-color: #a5d097;
 }
 
+.indexpg {
+    border-bottom-style: solid;
+    border-bottom-color: #a5d097;
+}
+
 i{
     font-size: 20px;
     color: #279103;
