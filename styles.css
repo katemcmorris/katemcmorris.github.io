@@ -1,0 +1,112 @@
+/* Place your CSS styles in this file */
+
+.Hobbies {
+    column-count: 2;
+}
+
+html{
+    background-color: #a5d097;
+}
+
+i{
+    font-size: 20px;
+    color: #279103;
+}
+
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+h1 {
+    margin: 15px;
+}
+
+h2 {
+    margin: 15px;
+}
+
+h3{
+    margin: 15px;
+}
+
+ul{
+    margin: 15px;
+}
+
+p {
+    margin: 35px;
+    padding: 10px;
+}
+
+/* Menu */
+nav {
+    background-color: #279103;
+    padding: 10px;
+}
+
+nav a {
+    color: black;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #a5d097;
+}
+
+h1 {
+    color: #279103;
+}
+
+/* Header */
+header {
+    background-color: lightblue;
+    padding: 0px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #eee;
+    text-align: center;
+    padding: 0px;
+}
+
+
+.ResumeLink {
+    width: 337px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: auto;
+    padding: 7px;
+    color: #279103;
+    text-decoration: none;
+}
+
+.ResumeLink:hover {
+    width: 337px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: auto;
+    color: #279103;
+    text-decoration: none;
+    background-color: #b3b4b3;
+}
+
+.ResumeImg{
+    margin: 15px;
+}
+
+
+/*
+h1 {
+    color: #279103;
+}
+*/
