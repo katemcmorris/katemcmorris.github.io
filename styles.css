@@ -8,6 +8,10 @@ html{
     background-color: #a5d097;
 }
 
+div {
+    color:#279103;
+}
+
 .indexpg {
     border-bottom-style: solid;
     border-bottom-width: 40px;
